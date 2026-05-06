@@ -1,0 +1,40 @@
+MIT License
+
+Copyright (c) 2024 [Your Name]
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+## Data Acknowledgments
+
+This project uses data from:
+
+### Copernicus Sentinel-2 Data
+Contains modified Copernicus Sentinel data [Year]
+Access: https://scihub.copernicus.eu/
+
+### Living Wales Datacube
+Provided by the Living Wales project, Aberystwyth University
+More information: https://livingwales.aber.ac.uk/
+
+When using this code or methodology, please acknowledge:
+- The Living Wales project for providing the datacube infrastructure
+- The European Space Agency (ESA) for Sentinel-2 data
+- This repository if you build upon this work
