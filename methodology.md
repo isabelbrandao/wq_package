@@ -226,7 +226,7 @@ ndci = (ds.red_edge_1 - ds.red) / (ds.red_edge_1 + ds.red)
 
 ### 9.2 Machine Learning
 - Random forest for chlorophyll concentration estimation
-- Time series forecasting (LSTM networks)
+- Time series forecasting
 - Anomaly detection algorithms
 
 ### 9.3 Integration

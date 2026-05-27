@@ -15,7 +15,7 @@ The Open Data Cube (ODC) is an open-source framework for managing and analyzing 
 - **Storage**: Varies by analysis scope (10GB+ free space)
 
 ### Knowledge Requirements
-- Basic Python programming
+- Python programming
 - Understanding of geospatial concepts
 - Familiarity with Jupyter notebooks
 
@@ -32,7 +32,7 @@ The Living Wales project may provide hosted JupyterHub access with pre-configure
 - Collaborative environment
 
 **Access**:
-Contact the Living Wales team or your institution for access credentials.
+Contact the Living Wales team for access credentials.
 
 ### Option 2: Local Installation
 
