@@ -1,4 +1,83 @@
-### Files not tracked by git
+### Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+### Virtual Environments
+venv/
+ENV/
+env/
+.venv
+env.bak/
+venv.bak/
+
+### Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb_checkpoints
+.jupyter/
+.ipython/
+*/.ipynb_checkpoints/*
+
+### Data and Output Files
+*.nc
+*.tif
+*.tiff
+*.zarr
+*.h5
+*.hdf5
+data/
+outputs/
+results/
+
+### IDE and Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+.sublime-project
+.sublime-workspace
+*.code-workspace
+.vim/
+.ropeproject/
+
+### Testing and Coverage
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.hypothesis/
+*.cover
+
+### Documentation Build
+site/
+docs/_build/
+
+### OS Files
+Thumbs.db
+.DS_Store
+.AppleDouble
+
+### Project-specific
 PACKAGE_SUMMARY.md
 PRODUCT_STRUCTURE.md
 QUICK_START.md
